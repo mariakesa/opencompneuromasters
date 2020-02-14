@@ -18,8 +18,12 @@ https://www.labri.fr/perso/nrougier/python-opengl/
 "Book of Shaders", Patricio Gonzalez Vivo and Jen Lowe
 https://thebookofshaders.com/
 
+6. Learn Jupyter
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
 5. Learn LateX
 https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+https://stackoverflow.com/questions/13208286/how-to-write-latex-in-ipython-notebook
 
 Exam! (coming soon)
 
@@ -28,9 +32,36 @@ II Foundations -- 3 months
 "Calculus", MIT OCW
 https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
 
+2. Linear Algebra
+"Linear Algebra", MIT OCW
+Optional, more advanced
+
+3. Probability and Statistics
+"Biostatistics Bootcamp" I&II, Coursera
+Rafa Book
+
+Exam! (coming soon)
+
 III Fundamentals of Neuroscience-- 3 months
 
 1. "Computational Neuroscience", Coursera
 
 2. Classic textbook, "Computational Neuroscience", Dayan and Abbott
 http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf
+
+VI Machine Learning
+Tibshirani, Hastie Book
+Stanford Engineering Everywhere course
+
+V Neural Data Analysis
+MIT CompNeuro courses
+
+Exercises (coming soon)
+
+Suggested papers (coming soon)
+
+VI Neural simulations and spiking neural networks
+Kwabena Boahen
+
+VII Deep Learning
+Geoffrey Hinton course
