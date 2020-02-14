@@ -1,3 +1,6 @@
+0 The very basics of mathematics
+Krista King Udemy lectures
+
 I Practical Computational Skills-- 3 Months
 
 1. Learn Git
@@ -49,19 +52,21 @@ III Fundamentals of Neuroscience-- 3 months
 2. Classic textbook, "Computational Neuroscience", Dayan and Abbott
 http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf
 
-VI Machine Learning
+IV Machine Learning-- 3 months
 Tibshirani, Hastie Book
 Stanford Engineering Everywhere course
 
-V Neural Data Analysis
+V Neural Data Analysis-- 3 months
 MIT CompNeuro courses
 
 Exercises (coming soon)
 
 Suggested papers (coming soon)
 
-VI Neural simulations and spiking neural networks
+VI Neural simulations and spiking neural networks-- 1 month
 Kwabena Boahen
 
-VII Deep Learning
+VII Deep Learning and Reinforcement Learning-- 2 months
 Geoffrey Hinton course
+
+Months total: 18 months:-)
