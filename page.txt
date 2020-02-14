@@ -1,0 +1,36 @@
+I Practical Computational Skills-- 3 Months
+
+1. Learn Git
+"Version Control with Git", Udacity
+https://www.udacity.com/course/version-control-with-git--ud123
+
+2. Learn Python and Algorithms
+"Introduction to Computer Science and Programming", MIT OCW
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008
+
+3. Learn MatPlotLib
+https://realpython.com/python-matplotlib-guide/
+
+4. Optional, more advanced-- 3D visualizations
+"Python & OpenGL for Scientific Visualization", Rougier
+https://www.labri.fr/perso/nrougier/python-opengl/
+
+"Book of Shaders", Patricio Gonzalez Vivo and Jen Lowe
+https://thebookofshaders.com/
+
+5. Learn LateX
+https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+
+Exam! (coming soon)
+
+II Foundations -- 3 months
+1. Calculus
+"Calculus", MIT OCW
+https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
+
+III Fundamentals of Neuroscience-- 3 months
+
+1. "Computational Neuroscience", Coursera
+
+2. Classic textbook, "Computational Neuroscience", Dayan and Abbott
+http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf
