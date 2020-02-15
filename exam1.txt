@@ -6,3 +6,9 @@ Exam
 master.
 
 3. What does checkout do?
+
+4. What does git clone do?
+
+5. What does git init do?
+
+6. Which command lets you check the status of your repo?
