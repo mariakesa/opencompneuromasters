@@ -1,6 +1,7 @@
 0 The very basics of mathematics
 Krista King Udemy lectures
-
+For those needing a refresher on calculus, Coursera course, "Introduction to Calculus"
+https://www.coursera.org/learn/introduction-to-calculus
 I Practical Computational Skills + Writing course-- 3 Months
 
 1. Learn Git
@@ -38,8 +39,11 @@ II Foundations -- 3 months
 https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
 
 2. Linear Algebra
-"Linear Algebra", MIT OCW
-Optional, more advanced
+"Linear Algebra", Gilbert Strang, MIT OCW
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+"Linear Algebra for Theoretical Neuroscience Notes", Ken Miller
+http://www.columbia.edu/cu/neurotheory/Ken/math-notes/
+Optional, more advanced-- second MIT course
 
 3. Probability and Statistics
 "Biostatistics Bootcamp" I&II, Coursera
@@ -56,6 +60,8 @@ http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf
 
 IV Machine Learning-- 3 months
 Tibshirani, Hastie Book
+"Bayesian Reasoning and Machine Learning", Barber
+http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
 Stanford Engineering Everywhere course
 
 V Neural Data Analysis-- 3 months
@@ -70,12 +76,10 @@ Kwabena Boahen
 Gerstner book
 
 VII Deep Learning and Reinforcement Learning-- 2 months
+Bengio Book http://faculty.neu.edu.cn/yury/AAI/Textbook/DeepLearningBook.pdf
 Geoffrey Hinton course
 "Information Theory",MacKay course
 "Reinforcement Learning", David Silver
 Sutton and Barto
-
-BONUS: Scientific writing course, Coursera
-
 
 Months total: 18 months:-)
