@@ -68,5 +68,9 @@ Kwabena Boahen
 
 VII Deep Learning and Reinforcement Learning-- 2 months
 Geoffrey Hinton course
+"Information Theory",MacKay course
+"Reinforcement Learning", David Silver
+Sutton and Barto
+
 
 Months total: 18 months:-)
