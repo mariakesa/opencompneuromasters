@@ -12,3 +12,13 @@ master.
 5. What does git init do?
 
 6. Which command lets you check the status of your repo?
+
+7. How are 'git log' and 'git show' commits different
+
+8. How can you search for a commit?
+
+9. How to show the details for a commit?
+
+--------------
+
+Python and Algorithms
