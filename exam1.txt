@@ -1,0 +1,8 @@
+Exam
+
+1. Create a git repo. Commit a file to it. What is the SHA of the commit?
+
+2. Create a branch in your repo and commit a file to it. Merge the branch with
+master.
+
+3. What does checkout do?
