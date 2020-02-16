@@ -2,8 +2,14 @@ It looks like it is never going to happen. I will never have enough funds to
 pay for a full time master's including the time spent away
 for work. I already have a master's in Applied Mathematics,
 but I've worked throughout my university studies and this means that my knowledge
-has gaps. I am genuinely passionate about neuroscience and I've participated
-in 
+has gaps. I am genuinely passionate about neuroscience and machine learning.
+I've gotten scholarships to participate in summer courses at Princeton,
+Berkeley, Human Brain Project, Okinawa Institute of Science and Technology.
+I've been very fortunate to work as a data scientist at the Howard Hughes
+Medical Institute with Carsen Stringer and Marius Pachitariu. I've taken
+loads of online courses.
+
+
 
 0 The very basics of mathematics
 Krista King Udemy lectures
@@ -74,6 +80,7 @@ http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
 Stanford Engineering Everywhere course
 
 V Neural Data Analysis-- 3 months
+Neural Data Science book
 MIT CompNeuro courses
 
 Exercises (coming soon)
