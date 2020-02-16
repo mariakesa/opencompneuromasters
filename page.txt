@@ -98,4 +98,6 @@ Geoffrey Hinton course
 "Reinforcement Learning", David Silver
 Sutton and Barto
 
+BONUS: Reproducible Research, Harvard
+
 Months total: 18 months:-)
