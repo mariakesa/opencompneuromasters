@@ -2,6 +2,8 @@
 Krista King Udemy lectures
 For those needing a refresher on calculus, Coursera course, "Introduction to Calculus"
 https://www.coursera.org/learn/introduction-to-calculus
+Mathematics for CS, Lehman Leighton
+https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 I Practical Computational Skills + Writing course-- 3 Months
 
 1. Learn Git
